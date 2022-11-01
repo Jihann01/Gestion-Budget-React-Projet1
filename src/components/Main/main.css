@@ -1,0 +1,20 @@
+.tit{
+        background: -webkit-linear-gradient(#eee, rgb(60, 50, 167), rgb(22, 18, 70));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 3rem;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: solid rgb(246, 255, 127);
+        margin-left: 250px;
+        margin-right: 250px;
+        border-radius: 7%;
+         text-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+}
+.balance{
+        color: darkslategrey;
+        text-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+}
